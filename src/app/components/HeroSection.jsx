@@ -37,15 +37,15 @@ const HeroSection = () => {
             />
           </h1>
           <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam,
-            voluptuous.
+            
+As a driven and adaptable professional, I thrive on embracing fresh challenges. Fueled by a relentless pursuit of knowledge, I am committed to consistently delivering excellence.
           </p>
           <div>
             <Link
-              href="/#contact"
+              href="https://github.com/Prekshah30"
               className="px-6 inline-block py-3 w-full sm:w-fit rounded-full mr-4 bg-gradient-to-br from-primary-500 to-secondary-500 hover:bg-slate-200 text-white"
             >
-              Hire Me
+              Github Profile
             </Link>
             <Link
               href="/"

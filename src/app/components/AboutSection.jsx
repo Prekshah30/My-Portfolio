@@ -206,12 +206,16 @@ const AboutSection = () => {
         <div className="mt-4 md:mt-0 text-left flex flex-col h-full">
           <h2 className="text-4xl font-bold text-white mb-4">About Me</h2>
           <p className="text-base lg:text-lg">
-            I am a full stack developer with a passion for creating
-            interactive and responsive web applications. I have experience
-            working with JavaScript, React, Redux, Node.js, Express, HTML, CSS, and Git. I am a quick learner and I am always
-            looking to expand my knowledge and skill set. I am a team player and
-            I am excited to work with others to create amazing applications.
-          </p>
+            I am Preksh Shah a full stack developer with a passion for creating
+            interactive and responsive web applications and the zeal to be up to the mark.
+            </p>  
+           <p className="text-base lg:text-lg mt-3" >Currently pursuing B.Tech in Information Technology from Dwarkadas J. Sanghvi College of Engineering with a CGPA of 8.98 </p>
+            
+            <p className="text-base lg:text-lg mt-3">I am a team player and had the privilege to lead the team of 6 members in the Finale of prestigious Smart India Hackathon 2023.</p>
+            
+          
+            <p className="text-base lg:text-lg mt-3" >At the position of Vice Chairperson of a cultural committee DJ Lit.</p>
+          
 
 
           <h2 className="text-4xl font-bold text-white mb-0 mt-6 ">Skills</h2>
