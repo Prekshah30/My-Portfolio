@@ -106,7 +106,7 @@ const projectsData = [
     skill2: "ZegoCloud",
     skill3: "Node js",
     skill4: "AWS",
-    description: "Student platform for seamless file storage, chat, and video functionalities to facilitate cross-functional team project development. It includes a mentor recommendation system based on students' skillsets and dynamic meeting scheduling.",
+    description: "Student platform for seamless file storage, chat, and video functionalities to facilitate cross-functional team project development. It includes a mentor recommendation system based on students skillsets and dynamic meeting scheduling.",
     image: "/images/projects/10.jpg",
     tag: [ "All", "Mobile"],
     gitUrl: "https://github.com/Prekshah30/youtube_clone",
