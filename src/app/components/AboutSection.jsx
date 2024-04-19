@@ -453,7 +453,7 @@ const AboutSection = () => {
         <div className="mt-4 md:mt-0 text-left flex flex-col h-full">
           <h2 className="text-4xl font-bold text-white mb-4">About Me</h2>
           <p className="text-base lg:text-lg">
-          👋 Hello! I'm Preksh Shah, a full stack developer with a passion for creating interactive and responsive web applications and the zeal to be up to the mark.
+          👋 Hello! I&apos;m Preksh Shah, a full stack developer with a passion for creating interactive and responsive web applications and the zeal to be up to the mark.
             </p>  
            <p className="text-base lg:text-lg mt-3" >🎓 Currently pursuing B.Tech in Information Technology from Dwarkadas J. Sanghvi College of Engineering with a CGPA of 8.98. </p>
             
