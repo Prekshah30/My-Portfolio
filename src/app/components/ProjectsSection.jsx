@@ -44,8 +44,8 @@ const projectsData = [
     description: "App for benefitting the farmers and making them aware of the existing district wise schemes,projects based on their location , along with real time weather prediction , market price data and an Admin Dashboard ",
     image: "/images/projects/7.jpg",
     tag: ["All",  "Mobile"],
-    gitUrl: "/",
-    previewUrl: "/",
+    gitUrl: "https://github.com/DEEPVYAS03/SIH_CodeCrafters",
+    // previewUrl: "/",
   },
   {
     id: 4,
@@ -58,7 +58,7 @@ const projectsData = [
     image: "/images/projects/2.jpg",
     tag: ["All",  "Web"],
     gitUrl: "https://github.com/Prekshah30/RealEstate",
-    previewUrl: "/",
+    // previewUrl: "/",
   },
   {
     id: 5,
@@ -71,7 +71,7 @@ const projectsData = [
     image: "/images/projects/3.jpg",
     tag: ["All", "Web"],
     gitUrl: "https://github.com/Prekshah30/CarShowroom",
-    previewUrl: "/",
+    // previewUrl: "/",
   },
   {
     id: 6,
@@ -84,7 +84,7 @@ const projectsData = [
     image: "/images/projects/1.1.jpg",
     tag: [ "All", "Web"],
     gitUrl: "https://github.com/Prekshah30/youtube_clone",
-    previewUrl: "/",
+    // previewUrl: "/",
   },
   {
     id: 7,
@@ -96,8 +96,8 @@ const projectsData = [
     description: " AI Voice Assistant with voice to text functionality and a realtime chatbot.",
     image: "/images/projects/8.jpg",
     tag: [ "All", "Mobile"],
-    gitUrl: "https://github.com/Prekshah30/youtube_clone",
-    previewUrl: "/",
+    gitUrl: "https://github.com/Prekshah30/AI--voice-assistant",
+    // previewUrl: "/",
   },
   {
     id: 8,
@@ -109,8 +109,8 @@ const projectsData = [
     description: "Student platform for seamless file storage, chat, and video functionalities to facilitate cross-functional team project development. It includes a mentor recommendation system based on students skillsets and dynamic meeting scheduling.",
     image: "/images/projects/10.jpg",
     tag: [ "All", "Mobile"],
-    gitUrl: "https://github.com/Prekshah30/youtube_clone",
-    previewUrl: "/",
+    gitUrl: "https://github.com/Prekshah30/student-managementapp",
+    // previewUrl: "/",
   },
 ];
 
